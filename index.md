@@ -8,7 +8,7 @@
  
  嘿嘿嘿：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=12961049&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
- 电影：<embed src="http://static.video.qq.com/TPout.swf?auto=1&vid=n00230b7p2i" quality="high" width="460" height="372" align="middle" allowScriptAccess="sameDomain" allowFullscreen="true" type="application/x-shockwave-flash"></embed>
+ 电影：<iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=25c38c6cd64fe6de9c4b707ed7ca8f56&tvId=367710700&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="100%"></iframe>
  
  测试：
  
