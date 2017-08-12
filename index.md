@@ -10,7 +10,7 @@
  
  电影：
  
- <embed src="http://player.video.qiyi.com/25c38c6cd64fe6de9c4b707ed7ca8f56/0/0/v_19rrnqxz7k.swf-albumId=367710700-tvId=367710700-isPurchase=0-cnId=1" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+ <embed src="http://player.video.qiyi.com/25c38c6cd64fe6de9c4b707ed7ca8f56/0/0/v_19rrnqxz7k.swf-albumId=367710700-tvId=367710700-isPurchase=0-cnId=1" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
  
  测试：
  
