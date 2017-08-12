@@ -9,8 +9,7 @@
  嘿嘿嘿：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=12961049&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
  电影：
- 
- <iframe style="width:704px;height:436px;" src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=410443&ref=http://www.acfun.cn/v/ac424553" id="ACFlashPlayer-re" frameborder="0"></iframe>
+ http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=410443&ref=http://www.acfun.cn/v/ac424553
  
  测试：
  
