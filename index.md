@@ -2,7 +2,7 @@
   这算我第一个建成的网站了吧
   
   想想还有点激动
-  <embed src="//music.163.com/style/swf/widget.swf?sid=32217080&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+  <embed src="//music.163.com/style/swf/widget.swf?sid=32217080&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
   
  鬼畜视频：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=13206252&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
