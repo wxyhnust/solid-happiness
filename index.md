@@ -11,7 +11,7 @@
  电影：
  
 
-<embed height="348",width="550",class="player",allowFullScreenInteractive="true",pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash",AllowScriptAccess="always",rel="noreferrer",flashvars="vid=410443&ref=http://www.acfun.cn/v/ac424553",src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=410443&ref=http://www.acfun.cn/v/ac424553",type="application/x-shockwave-flash",allowfullscreen="true",quality="high",wmode="window"></embed>
+<embed height="348",width="550",class="player",allowFullScreenInteractive="true",pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash",AllowScriptAccess="always",rel="noreferrer",flashvars="vid=410443&ref=http://www.acfun.cn/v/ac424553",src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=410443&ref=http://www.acfun.cn/v/ac424553",type="application/x-shockwave-flash",allowfullscreen="true",quality="high",wmode="window">
  
  测试：
  
