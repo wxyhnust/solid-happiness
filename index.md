@@ -8,7 +8,7 @@
  
  嘿嘿嘿：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=12961049&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
- 电影：<embed src='http://player.youku.com/player.php/sid/XNDIzNDcwOTMy/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+ 电影：<iframe height=498 width=510 src='http://player.youku.com/embed/XNDIzNDcwOTMy' frameborder=0 'allowfullscreen'></iframe>
  
  
  测试：
