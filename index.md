@@ -10,7 +10,8 @@
  
  电影：
  
- http://player.video.qiyi.com/25c38c6cd64fe6de9c4b707ed7ca8f56/0/0/v_19rrnqxz7k.swf-albumId=367710700-tvId=367710700-isPurchase=0-cnId=1
+
+<embed height="348",width="550",class="player",allowFullScreenInteractive="true",pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash",AllowScriptAccess="always",rel="noreferrer",flashvars="vid=410443&ref=http://www.acfun.cn/v/ac424553",src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=410443&ref=http://www.acfun.cn/v/ac424553",type="application/x-shockwave-flash",allowfullscreen="true",quality="high",wmode="window"></embed>
  
  测试：
  
