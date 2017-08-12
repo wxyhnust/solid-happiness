@@ -4,6 +4,7 @@
   想想还有点激动
   <embed src="//music.163.com/style/swf/widget.swf?sid=32217080&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
   
+ 鬼畜视频：static.hdslb.com/miniloader.swf?aid=13206252&page=1
 You can use the [editor on GitHub](https://github.com/wxyhnust/solid-happiness/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
