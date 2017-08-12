@@ -8,8 +8,7 @@
  
  嘿嘿嘿：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=12961049&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
- 电影：
- http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=410443&ref=http://www.acfun.cn/v/ac424553
+ 电影：<embed height="348",width="550",class="player",allowFullScreenInteractive="true",pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash",AllowScriptAccess="always",rel="noreferrer",flashvars="vid=3282401&ref=http://www.acfun.cn/v/ac2598673",src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?vid=3282401&ref=http://www.acfun.cn/v/ac2598673",type="application/x-shockwave-flash",allowfullscreen="true",quality="high",wmode="window"></embed>
  
  测试：
  
