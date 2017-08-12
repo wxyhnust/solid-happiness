@@ -6,9 +6,7 @@
   
  鬼畜视频：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=13206252&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
- 嘿嘿嘿：
- 
- static.hdslb.com/miniloader.swf?aid=12961049&page=1
+ 嘿嘿嘿：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=12961049&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
 You can use the [editor on GitHub](https://github.com/wxyhnust/solid-happiness/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
