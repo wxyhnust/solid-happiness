@@ -8,7 +8,7 @@
  
  嘿嘿嘿：
  
- <iframe src="https://flashservice.xvideos.com/embedframe/28426187" frameborder=0 width=510 height=400 scrolling=no allowfullscreen=allowfullscreen></iframe>
+ static.hdslb.com/miniloader.swf?aid=12961049&page=1
  
 You can use the [editor on GitHub](https://github.com/wxyhnust/solid-happiness/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
