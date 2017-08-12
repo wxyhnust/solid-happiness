@@ -8,6 +8,17 @@
  
  嘿嘿嘿：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=12961049&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
+ 电影：
+ <embed src='http://player.youku.com/player.php/sid/XMTU5MjMwMzIzNg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+ 
+ <embed src='http://player.youku.com/player.php/sid/XMTY4ODkxNjQyOA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+ 
+ <embed src='http://player.youku.com/player.php/sid/XMTc0MTUxODEwNA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+ 
+ <embed src='http://player.youku.com/player.php/sid/XNDIzNDcwOTMy/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+ 
+ 
+ 
  <iframe src="https://www.pornhub.com/embed/237356622" frameborder="0" width="560" height="315" scrolling="no" allowfullscreen></iframe>
  
  测试：
