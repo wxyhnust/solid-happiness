@@ -2,6 +2,7 @@
   这算我第一个建成的网站了吧
   
   想想还有点小激动
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=42884&auto=1&height=430"></iframe>
   
   http://uri.amap.com/search
   <embed src="//music.163.com/style/swf/widget.swf?sid=32217080&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
