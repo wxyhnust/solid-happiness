@@ -2,8 +2,7 @@
   这算我第一个建成的网站了吧
   
   想想还有点小激动
-<embed src="//music.163.com/style/swf/widget.swf?sid=2705108&type=1&auto=0&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
-  
+<embed src="//music.163.com/style/swf/widget.swf?sid=10755&type=1&auto=0&width=310&height=90" width="330" height="110"  allowNetworking="all"></embed>
   http://uri.amap.com/search
   <embed src="//music.163.com/style/swf/widget.swf?sid=32217080&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
   
