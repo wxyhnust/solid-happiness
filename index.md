@@ -7,7 +7,7 @@
   http://uri.amap.com/search
   <embed src="//music.163.com/style/swf/widget.swf?sid=32217080&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
   
-  <embed src="//music.163.com/style/swf/widget.swf?sid=33358016&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=42884&auto=0&height=430"></iframe>
   
   
  鬼畜视频：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=13206252&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
