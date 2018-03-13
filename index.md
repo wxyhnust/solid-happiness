@@ -2,12 +2,12 @@
   这算我第一个建成的网站了吧
   
   想想还有点小激动
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=42884&auto=1&height=430"></iframe>
+<embed src="//music.163.com/style/swf/widget.swf?sid=2705108&type=1&auto=0&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
   
   http://uri.amap.com/search
   <embed src="//music.163.com/style/swf/widget.swf?sid=32217080&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
   
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=1&id=42884&auto=1&height=90"></iframe>
+ <embed src="//music.163.com/style/swf/widget.swf?sid=10755&type=1&auto=0&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
   
  鬼畜视频：<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=13206252&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
  
